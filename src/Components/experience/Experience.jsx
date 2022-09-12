@@ -18,7 +18,6 @@ export default function experience() {
               <div>
               <h4>{item.progLang}</h4>
               <small className='text-light'>{item.experience}</small>      
-              {/* <small className="text-light">{item.framewrk}</small> */}
               </div>
             </article>
             ))}
