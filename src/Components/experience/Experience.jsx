@@ -1,6 +1,5 @@
 import React from 'react'
 import './experience.css'
-import { BsPatchCheckFill } from 'react-icons/bs'
 import { expFrontEndData, expBackEndData } from '../../data'
 export default function experience() {
   return (
