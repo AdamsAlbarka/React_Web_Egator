@@ -2,7 +2,6 @@ import React from 'react'
 import './about.css'
 import { data, cardData } from '../../data'
 import Button from '../../tools/Button/Button'
-import { BsFillJournalBookmarkFill } from 'react-icons/bs'
 
 export default function About() {
   return (
